@@ -225,14 +225,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - LinkedIn: [vellaichamy](https://www.linkedin.com/in/vellaichamy/)
 - Portfolio: [vellaichamy.vercel.app](https://vellaichamy.vercel.app/)
 
-## 🙏 Acknowledgments
-
-- Dataset provided by IBM Sample Data Sets
-- Kaggle community for hosting the dataset
-- scikit-learn documentation and examples
-
----
-
-**Project Status:** ✅ Complete | 🚀 Production Ready | 📊 Fully Documented
-
-*Last Updated: August 2026*
