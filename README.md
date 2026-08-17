@@ -1,5 +1,10 @@
 # FDE Assessment - Telco Customer Churn Prediction
 
+## 📓 View Analysis
+
+**[Open Jupyter Notebook on GitHub](https://github.com/ugrasenanv/FDE-assessment/blob/main/telco_churn_analysis.ipynb)** - Full analysis with visualizations
+
+
 Machine learning project predicting customer churn for telecommunications companies using Logistic Regression and Random Forest models.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
