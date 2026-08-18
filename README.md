@@ -214,9 +214,6 @@ Detailed documentation available in `docs/`:
 
 **Size:** 7,043 customers × 21 features
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
